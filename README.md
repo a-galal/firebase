@@ -26,9 +26,9 @@ npm install
 
 ### Run Project
 
-to run our project start our backend project and run this command : 
+to run our live example visit url : 
 ```
-npm start
+https://us-central1-test-67722.cloudfunctions.net/users/1
 ```
 
-then our server run user 3000 port. http://localhost:3000
+then our project return user data "you can change userId 1 ,2 ,3"
