@@ -23,6 +23,14 @@ npm install firebase-tools
 ```
 npm install 
 ```
+```
+
+```
+
+firebase deploy
+
+```
+
 
 ### Run Project
 
